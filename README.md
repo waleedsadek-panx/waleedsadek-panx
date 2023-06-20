@@ -3,7 +3,7 @@
 - 🌱 I'm interested in learning how-to extend technology's capabilities for social benefit. 
 - 💞️ I’m always looking to collaborate on interesting projects!
 
-###### If you'd like to find free online computer science certifications to earn:
+###### I curated a list of free online computer science and business certifications available to earn:
 
 > ⭐ Star this repo [Awesome Certificates](https://github.com/PanXProject/awesome-certificates)!
 
